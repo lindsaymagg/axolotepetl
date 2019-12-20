@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2775339294141946495
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2775339294141946494}
+  - component: {fileID: 2775339294141946493}
+  m_Layer: 0
+  m_Name: MealManager02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2775339294141946494
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2775339294141946495}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2775339294141946493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2775339294141946495}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72e997ba586c3b3488a11e583cedfbb7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mealsProbs:
+  - 30
+  - 30
+  - 30
+  - 10
+  - 10
+  - 10
+  mealsInLevel:
+  - {fileID: 11400000, guid: 59d062c404e3a41339fe9aad30c1b3ce, type: 2}
+  - {fileID: 11400000, guid: 2a155801d3c06004db3f1d7cf81307aa, type: 2}
+  - {fileID: 11400000, guid: 67e6740b6394749b3af8f2277a412288, type: 2}
+  - {fileID: 11400000, guid: 1830727e4582eca43ab3e31f0cc02920, type: 2}
+  - {fileID: 11400000, guid: 49f473386ad61d6408da3db73c3128e5, type: 2}
+  - {fileID: 11400000, guid: 89e96ed2f6ca66f48ba0b94a9c8c63ac, type: 2}

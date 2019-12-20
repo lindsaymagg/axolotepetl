@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc97d94a48c42c343bb378ef1c301eb9, type: 3}
+  m_Name: Guacamole
+  m_EditorClassIdentifier: 
+  name: Guacamole
+  sprite: {fileID: 21300000, guid: 2055e5ea085b7fe4e966eb4e3c4fe253, type: 3}
+  requiredIngredients:
+  - {fileID: 11400000, guid: 6f74dc36dc20f3343a9ea302db221de9, type: 2}
+  - {fileID: 11400000, guid: b15ecf4fcffc3e446a631aab02a51e4c, type: 2}
+  - {fileID: 11400000, guid: f22aacec71fe9fd4a90a0819db4d5834, type: 2}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc97d94a48c42c343bb378ef1c301eb9, type: 3}
+  m_Name: Sopatomate
+  m_EditorClassIdentifier: 
+  name: Sopatomate
+  sprite: {fileID: 21300000, guid: fca56a3238b8894449035aea18ef18ab, type: 3}
+  requiredIngredients:
+  - {fileID: 11400000, guid: 4bc98894394d84e478bca15327ea96da, type: 2}
+  - {fileID: 11400000, guid: b1d4894f04c5f5b4b900caabe9cb8d2a, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc97d94a48c42c343bb378ef1c301eb9, type: 3}
+  m_Name: Tacos
+  m_EditorClassIdentifier: 
+  name: Tacos
+  sprite: {fileID: 21300000, guid: 42f0d4d9f58e5485286b5328fbab8b62, type: 3}
+  requiredIngredients:
+  - {fileID: 11400000, guid: 9cfc57ede2672ed42b51ab088d11773c, type: 2}
+  - {fileID: 11400000, guid: 6f74dc36dc20f3343a9ea302db221de9, type: 2}
+  - {fileID: 11400000, guid: b15ecf4fcffc3e446a631aab02a51e4c, type: 2}
+  - {fileID: 11400000, guid: 9c35cd224d564c64dbf64695358211cb, type: 2}

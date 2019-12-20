@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc97d94a48c42c343bb378ef1c301eb9, type: 3}
+  m_Name: Pozole
+  m_EditorClassIdentifier: 
+  name: Pozole
+  sprite: {fileID: 21300000, guid: b6adea96656ed7d4998f701aeab8d276, type: 3}
+  requiredIngredients:
+  - {fileID: 11400000, guid: 0255a078e3a58fe4bb1fd011df13843f, type: 2}
+  - {fileID: 11400000, guid: 6f74dc36dc20f3343a9ea302db221de9, type: 2}
+  - {fileID: 11400000, guid: 8b93bf9705e84eb4aa3820ead4467f64, type: 2}
+  - {fileID: 11400000, guid: 9e3b77b01b6994b46a9910c74e8fa60e, type: 2}
+  - {fileID: 11400000, guid: 4885ef86bd8ead9498c311479dd36dd0, type: 2}
+  - {fileID: 11400000, guid: 9c35cd224d564c64dbf64695358211cb, type: 2}
